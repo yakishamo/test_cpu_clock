@@ -1,0 +1,3 @@
+*.o
+main
+use_read_clock
